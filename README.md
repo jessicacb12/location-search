@@ -6,7 +6,21 @@ Simple location search app built with [React](https://reactjs.org/), [TypeScript
 
 ## Screenshot
 
-<img src="assets/images/screenshot.png" />
+### Default View
+
+<img src="assets/screenshots/default_view.png" />
+
+### Success View
+
+<img src="assets/screenshots/success_view.png" />
+
+### Error View
+
+<img src="assets/screenshots/error_view.png" />
+
+### Search History View
+
+<img src="assets/screenshots/after_search_view.png" />
 
 <br>
 
