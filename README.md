@@ -1,8 +1,6 @@
-# React Webpack Typescript (RWT)
+# Simple Location Search with Redux Observable
 
-React Webpack Typescript Boilerplate with custom webpack configurations for hot reloading.
-
-A minimal secure boilerplate for writing Web Applications using [React](https://reactjs.org/), [Webpack](https://webpack.js.org/) & [TypeScript](https://www.typescriptlang.org/). <br /> This project makes use of latest packages and configurations to serve the best environment for development.
+Simple location search app built with [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/), [Redux Toolkit](https://redux-toolkit.js.org/) & [Redux Observable](https://redux-observable.js.org/). UI component uses [antd](https://ant.design/components). Mock data is obtained from [Google Place Autocomplete](https://developers.google.com/maps/documentation/places/web-service/autocomplete).<br/><br/>Webpack configuration is obtained from [react-webpack-typescript-2022](https://github.com/codesbiome/react-webpack-typescript-2022).
 
 <br>
 
@@ -14,31 +12,23 @@ A minimal secure boilerplate for writing Web Applications using [React](https://
 
 ## Core Features
 
-- ⚛️ React
-- 🌀 TypeScript
-- 🥗 SASS/SCSS Loader
-- 🛶 LESS Loader (optional)
-- 🎨 CSS Loader
-- 📸 Image Loader
-- 🆎 Font Loader
-- 🧹 ESLint
-- 🔱 Webpack & Configuration
-- 🧩 Aliases for Project Paths
-- 🔥 React Fast Refresh + Webpack HMR
-- 🌞 Dark Mode + Light Mode (Theme)
+- Search box
+- Search history
+- Loading skeleton
+- Error handler
 
 <br />
 
 ## Installation
 
-#### To install this boilerplate you need to run following commands
+#### To install this app you need to run following commands
 
 <br>
 
 Clone the repository :
 
 ```bash
-git clone https://github.com/codesbiome/react-webpack-typescript-2022
+git clone https://github.com/Khalia12/location-search
 ```
 
 <br>

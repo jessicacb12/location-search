@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "jsx": "react",
+    "jsx": "react-jsx",
     "allowJs": true,
     "target": "ES6",
     "module": "ESNext",
@@ -15,7 +15,7 @@
     "paths": {
       "*": ["node_modules/*"],
       "@assets/*": ["./assets/*"],
-      "@src/*": ["./src/*"]
+      "@/*": ["./src/*"]
     }
   },
   "include": ["src/**/*", "tools/**/*"]

@@ -20,7 +20,7 @@
       },
       "alias": {
         "map": [
-          ["@src", "./src"],
+          ["@", "./src"],
           ["@assets", "./assets"]
         ],
         "extensions": [".js", ".jsx", ".ts", ".tsx"]
